@@ -7,5 +7,6 @@ System.out.println("it is initicial project");
 System.out.println("i thought it is work");
 System.out.println("its better");
 System.out.println("its nice");
+System.out.println("its finally");
 }
 }
